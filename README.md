@@ -1,5 +1,5 @@
 ## Olá! Eu sou Lorenzo Marzola Begnozzi 👋
-
+😄Studyng Software Engineering
 ###
 
 <div align="left">
@@ -8,7 +8,6 @@
 </div>
 
 ###
-
 
 ## Tecnologias que eu uso no meu dia
 
