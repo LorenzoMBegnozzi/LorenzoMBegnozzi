@@ -1,18 +1,11 @@
-## Olá! Eu sou Lorenzo Marzola Begnozzi 👋
-😄Studyng Software Engineering
-###
-
-![LorenzoMBegnozzi GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoMBegnozzi&show_icons=true&theme=dracula)
-![LorenzoMBegnozzi](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoMBegnozzi&layout=compact&theme=dracula)
-
-###
-
-## Tecnologias que eu uso no meu dia
-
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div><br/>
+# 💫 About Me:
+🔭 Studyng Software Engineering<br>
 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+<div style="display:flex; justify-content:space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LorenzoMBegnozzi&show_icons=true&theme=dracula" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoMBegnozzi&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="342"/>
+</div>
