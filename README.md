@@ -24,9 +24,4 @@
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
 
 # 📊 GitHub Stats:
-<div style="display:flex; justify-content:space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LorenzoMBegnozzi&show_icons=true&theme=dracula&hide_border=false" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoMBegnozzi&theme=dracula&hide_border=false&layout=compact" width="342"/>
-</div>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=LorenzoMBegnozzi&theme=dracula&hide_border=false)
+![Snake](https://raw.githubusercontent.com/LorenzoMBegnozzi/LorenzoMBegnozzi/output/github-snake-dark.svg)
