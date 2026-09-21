@@ -25,6 +25,8 @@
 
 # 📊 GitHub Stats:
 <div style="display:flex; justify-content:space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LorenzoMBegnozzi&show_icons=true&theme=dracula" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoMBegnozzi&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="342"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LorenzoMBegnozzi&show_icons=true&theme=dracula&hide_border=false" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoMBegnozzi&theme=dracula&hide_border=false&layout=compact" width="342"/>
 </div>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=LorenzoMBegnozzi&theme=dracula&hide_border=false)
