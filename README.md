@@ -23,5 +23,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
 
-# 📊 GitHub Stats:
 ![Snake](https://raw.githubusercontent.com/LorenzoMBegnozzi/LorenzoMBegnozzi/output/github-snake-dark.svg)
