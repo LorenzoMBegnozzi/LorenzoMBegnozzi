@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 Software Engineering graduate, currently working as Full Stack Developer<br>
 🧪 Experience in Full Stack Development, QA/Testing<br>
 💬 Let's connect and collaborate!
